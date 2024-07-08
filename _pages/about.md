@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thankd for visting my page! 
+Thanks for visting my page! 
 
 I am a dedicated demographer focused on elderly well-being. My research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. I seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. 
 
@@ -18,7 +18,7 @@ Primary Interests
 
 Education
 ======
-- **Renmin University of China**,  [Beijing, China](http://sph.ruc.edu.cn/index.htm) Beijing, China                                   Sep.2017-Jun.2021  
+- **[Renmin University of China](http://sph.ruc.edu.cn/index.htm)**,   Beijing, China                                   Sep.2017-Jun.2021  
 Bachelor of Public Administration (Demography Focus), School of Sociology& Demography  
 
 - **Peking University**, Beijing, China                                    Sep.2021-Jun.2024(Expected) 
