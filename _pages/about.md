@@ -7,23 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Dianqi Yuan is a dedicated demographer focused on elderly well-being. Her research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. She seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. She plans to pursue a Ph.D. to further influence aging research and public health policy.
+Thankd for visting my page! 
+
+I am a dedicated demographer focused on elderly well-being. My research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. I seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. 
 
 Primary Interests
 ======
-------
 - Population health
 - older adults' wellbeing
 
-Getting started
+Education
 ======
+- **Renmin University of China**,  [Beijing, China](http://sph.ruc.edu.cn/index.htm) Beijing, China                                   Sep.2017-Jun.2021  
+Bachelor of Public Administration (Demography Focus), School of Sociology& Demography  
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Peking University**, Beijing, China                                    Sep.2021-Jun.2024(Expected) 
+Master of Demography, Institute of Population Research                    
+
+- **Oxford Institute of Population Ageing**, Oxford, UK                   Oct.2023- Mar.2024(Expected) 
+Visiting Student                                                                            
+
 
 Site-wide configuration
 ------
