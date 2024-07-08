@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Dianqi Yuan is a dedicated demographer focused on elderly well-being. She earned her BS from Renmin University of China and completed her MS at Peking University. Her research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. She seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. She plans to pursue a Ph.D. to further influence aging research and public health policy.
+
 Primary Interests
 ======
-- 
+- Population health
+- older adults' wellbeing
 
 Getting started
 ======
