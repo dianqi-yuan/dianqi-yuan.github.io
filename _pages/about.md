@@ -18,13 +18,22 @@ Primary Interests
 
 Education
 ======
-- **[Renmin University of China](http://sph.ruc.edu.cn/index.htm)**,   Beijing, China                                   Sep.2017-Jun.2021  
-Bachelor of Public Administration (Demography Focus), School of Sociology& Demography  
+- <div style="display: flex; justify-content: space-between;">
+  <div>
+    - **<a href="https://en.ruc.edu.cn/">Renmin University of China</a>**, Beijing, China
+  </div>
+  <div>
+    Sep. 2017 - Jun. 2021
+  </div>
+</div>
 
-- **Peking University**, Beijing, China                                    Sep.2021-Jun.2024(Expected) 
-Master of Demography, Institute of Population Research                    
+- **[Renmin University of China](https://en.ruc.edu.cn/)**,   Beijing, China                                   Sep.2017-Jun.2021  
+Bachelor of Public Administration (Demography Focus), [School of Population and Health](http://sph.ruc.edu.cn/index.htm)  
 
-- **Oxford Institute of Population Ageing**, Oxford, UK                   Oct.2023- Mar.2024(Expected) 
+- **[Peking University](https://english.pku.edu.cn/)**, Beijing, China                                    Sep.2021-Jun.2024
+Master of Demography, [Institute of Population Research](https://ipr.pku.edu.cn/)                    
+
+- **Oxford Institute of Population Ageing**, Oxford, UK                   Oct.2023- Mar.2024
 Visiting Student                                                                            
 
 
