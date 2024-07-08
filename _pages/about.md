@@ -1,21 +1,23 @@
 ---
 permalink: /
-title: "Dianqi Yuan"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dianqi Yuan is a dedicated demographer focused on elderly well-being. She earned her BS from Renmin University of China and completed her MS at Peking University. Her research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. She seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. She plans to pursue a Ph.D. to further influence aging research and public health policy.
+Dianqi Yuan is a dedicated demographer focused on elderly well-being. Her research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. She seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. She plans to pursue a Ph.D. to further influence aging research and public health policy.
 
 Primary Interests
 ======
+------
 - Population health
 - older adults' wellbeing
 
 Getting started
 ======
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
