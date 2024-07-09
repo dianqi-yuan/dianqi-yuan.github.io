@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Pro.png"
+  avatar           : "hua.png"
   name             : "Dianqi Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Phd student in "
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0008-4207-3060"
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=dianqi+yuan"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Dianqi-Yuan/publications"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
