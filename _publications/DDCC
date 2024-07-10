@@ -1,0 +1,20 @@
+---
+title: "The impact of a pandemic shock on unmet medical needs of middle-aged and older adults in 10 countries"
+collection: publications
+permalink: /publication/DDCC
+date: 2024-04-08
+venue: 'BMJ Health & Care Informatics'
+citation: 'Guo, Chao, Yuan, Dianqi, Hu, Xiyuan, Tang, Huameng, Lei,Yiyang'
+---
+
+
+[[PDF]](https://informatics.bmj.com/content/31/1/e100865.long)
+
+## Abstract
+Objective The objective is to explore the impact of the pandemic shock on the unmet medical needs of middle-aged and older adults worldwide.
+
+Methods The COVID-19 pandemic starting in 2020 was used as a quasiexperiment. Exposure to the pandemic was defined based on an individual’s context within the global pandemic. Data were obtained from the Integrated Values Surveys. A total of 11 932 middle-aged and older adults aged 45 years and above from 10 countries where the surveys conducted two times during 2011 and 2022 were analysed. We used logistic regression models with the difference-in-difference method to estimate the impact of pandemic exposure on unmet medical needs by comparing differences before and after the pandemic across areas with varying degrees of severity.
+
+Results Among the 11 932 middle-aged and older adults, 3647 reported unmet medical needs, with a pooled unmet rate of 30.56% (95% CI: 29.74% to 31.40%). The pandemic significantly increased the risk of unmet medical needs among middle-aged and older adults (OR: 2.33, 95% CI: 1.94 to 2.79). The deleterious effect of the pandemic on unmet medical needs was prevalent among middle-aged adults (2.53, 2.00 to 3.20) and older adults (2.00, 1.48 to 2.69), as well as among men (2.24, 1.74 to 2.90) and women (2.34, 1.82 to 3.03). The results remained robust in a series of sensitivity analyses.
+
+Conclusion These findings suggest that efforts should be made by policymakers and healthcare professionals to balance healthcare resources to adequately address the comprehensive healthcare demands of individuals regarding multiple health issues, taking into account the challenges posed by pandemics.
