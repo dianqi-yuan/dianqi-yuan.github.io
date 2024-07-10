@@ -46,7 +46,7 @@ Li, Wang, Yuan Dianqi, Wang, Mingxing, Tang, Huameng, Guo, Chao. (2024). <br>
 <tbody>  <tr>  <td style="vertical-align: top; padding: 10px; border: none;"> 
 <p>
 <strong style="font-size: 18px;">Challenges and responses of left-behind elderly and children in rural China amid the new population development stage.</strong> <br>
-**Yuan, Dianqi**, Yang, Peisen, Yang, Hanbing, Tang, Huameng, & Guo, Chao. (2024). <br>
+<strong>Yuan, Dianqi</strong>, Yang, Peisen, Yang, Hanbing, Tang, Huameng, & Guo, Chao. (2024). <br>
 <i> China CDC Weekly, 5, 609-613. <a href="https://www.tandfonline.com/doi/abs/10.1080/08959420.2024.2348967"> [PDF] </a> </i>  
 </p> </td> </tr> </tbody> </table>
 
