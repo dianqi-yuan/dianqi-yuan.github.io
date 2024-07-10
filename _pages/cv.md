@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+----
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Peking University, 2021
 * B.A. in Renmin University of China, 2017
