@@ -32,4 +32,11 @@ Education
   -  Visiting Student   
   -  Oct.2023- Mar.2024
                                                                          
+<div class="text-center">
+<div class="row">
 
+	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+
+</div></div>
