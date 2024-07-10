@@ -36,6 +36,8 @@ Education
 <div class="row">
 
 	<img  class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png">
+        <img  class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png">
+        <img  class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png">
 	
 
 </div></div>
