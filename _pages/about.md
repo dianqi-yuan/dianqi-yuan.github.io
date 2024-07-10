@@ -9,7 +9,7 @@ redirect_from:
 
 Thanks for visting my page! 
 
-I am a dedicated demographer focused on elderly well-being. My research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. I seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. 
+I am a demographer focused on elderly well-being. My research includes taste preferences and health in older adults and rural left-behind elderly, with publications in notable journals. I seeks to explore the impact of individual behaviors on health outcomes from a life-course perspective and investigate the interplay between social determinants and health. 
 
 Primary Interests
 ------
@@ -35,7 +35,7 @@ Education
 <div class="text-center">
 <div class="row">
 
-	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
+	<img  class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png">
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
 
