@@ -1,16 +1,22 @@
 ---
-layout: archive
-title: "Publications"
+title: "My Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can also find my articles on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile </a> <br>
 
-{% include base_path %}
+<strong>Publications</strong> <br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<table>
+<tbody>
+<tr>
+<td style="vertical-align: top;"> <p>
+  Yuan, Dianqi, Tang, Huameng, Yang, Peisen, & Guo, Chao. (2024). <br> <strong>Taste preferences, cardiometabolic diseases, and mild cognitive impairment: A prospective cohort analysis of Chinese older adults.</strong> <br>
+  <i>British Journal of Nutrition, 6, 1064–1073.<a href="https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/abs/taste-preferences-cardiometabolic-diseases-and-mild-cognitive-impairment-a-prospective-cohort-analysis-of-older-chinese-adults/7D5973C862DD792A58D85695AC57FBA3"> [PDF] </a> 
+</i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
