@@ -33,20 +33,10 @@ Education
   -  Oct.2023- Mar.2024
                                                                          
 <div class="text-center">
-<div class="row">
+    <div class="row">
+        <img class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png" style="width:150px; height:150px;">
+        <img class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png" style="width:150px; height:150px;">
+        <img class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png" style="width:150px; height:150px;">
+    </div>
+</div>
 
-	<img  class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png">
-        <img  class="img-circle" src="https://dianqi-yuan.github.io/images/RM.jpg">
-        <img  class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png">
-	
-
-</div></div>
-
-
-<style>
-    .img-size {
-        width: 100px; /* 你可以根据需要调整这个值 */
-        height: 100px; /* 你可以根据需要调整这个值 */
-        object-fit: cover; /* 保证图片比例一致 */
-    }
-</style>
