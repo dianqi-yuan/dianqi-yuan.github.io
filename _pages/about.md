@@ -36,8 +36,17 @@ Education
 <div class="row">
 
 	<img  class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png">
-        <img  class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png">
+        <img  class="img-circle" src="https://dianqi-yuan.github.io/images/RM.jpg">
         <img  class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png">
 	
 
 </div></div>
+
+
+<style>
+    .img-size {
+        width: 100px; /* 你可以根据需要调整这个值 */
+        height: 100px; /* 你可以根据需要调整这个值 */
+        object-fit: cover; /* 保证图片比例一致 */
+    }
+</style>
