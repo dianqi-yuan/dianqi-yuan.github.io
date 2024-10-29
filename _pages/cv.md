@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Joint PhD in Social Statistics at the University of Manchester (UoM) and the Max Planck Institute for Demographic Research (MPIDR)
 * M.S. in Peking University, 2021
 * B.A. in Renmin University of China, 2017
 
