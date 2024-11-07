@@ -25,13 +25,24 @@ Research experience
 
 Awards
 ------
-* **Excellent Graduate** 2024  
+* **Excellent Graduate**         2024  
   Awarded by Peking University for outstanding performance during the academic years at PKU.
-* **China National Scholarship** 2023, awarded by the Ministry of Education of the People's Republic of China, achieving the top rank in comprehensive assessment for the second year of graduate education.
-* **Meritorious Student** 2022&2023, at Peking University, achieving the top rank.
-* **Second-Class Scholarship for Academic Excellence** 2019, at the Renmin University of China, granted to no more than 8% of students.
-* **Excellent Paper** 2022, award at "Population and Development" Ph.D. Student Academic Seminar.
-* **The First Prize** in the "Innovation Cup" at the Renmin University of China 2021, as the team leader for the research "The Impact of Internet Use on the Social Adaptation of Chinese Older Adults: Based on the 2016 China Health and Retirement Longitudinal Study".
+
+* **China National Scholarship**         2023  
+  Awarded by the Ministry of Education of the People's Republic of China, achieving the top rank in comprehensive assessment for the second year of graduate education.
+
+* **Meritorious Student**         2022 & 2023  
+  At Peking University, achieving the top rank.
+
+* **Second-Class Scholarship for Academic Excellence**         2019  
+  At the Renmin University of China, granted to no more than 8% of students.
+
+* **Excellent Paper**         2022  
+  Award at "Population and Development" Ph.D. Student Academic Seminar.
+
+* **The First Prize**         2021  
+  In the "Innovation Cup" at the Renmin University of China, as the team leader for the research "The Impact of Internet Use on the Social Adaptation of Chinese Older Adults: Based on the 2016 China Health and Retirement Longitudinal Study".
+
 
 Publications
 ------
