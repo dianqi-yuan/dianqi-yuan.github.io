@@ -19,14 +19,13 @@ Primary Interests
 Education
 ------
 
-- **[Renmin University of China](https://en.ruc.edu.cn/)**, Beijing, China
-  - Bachelor of Public Administration (Demography Focus), [School of Population and Health](http://sph.ruc.edu.cn/index.htm)
-  - Sep.2017-Jun.2021  
-
 - **[Peking University](https://english.pku.edu.cn/)**, Beijing, China
   - Master of Demography, [Institute of Population Research](https://ipr.pku.edu.cn/)   
   - Sep.2021-Jun.2024
-                 
+ 
+- **[Renmin University of China](https://en.ruc.edu.cn/)**, Beijing, China
+  - Bachelor of Public Administration (Demography Focus), [School of Population and Health](http://sph.ruc.edu.cn/index.htm)
+  - Sep.2017-Jun.2021                 
 
 - **[Oxford Institute of Population Ageing](https://www.ageing.ox.ac.uk/)**, Oxford, UK
   -  Visiting Student   
@@ -34,8 +33,8 @@ Education
                                                                          
 <div class="text-center">
     <div class="row">
-        <img class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png" style="width:150px; height:150px;">
         <img class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png" style="width:150px; height:150px;">
+        <img class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png" style="width:150px; height:150px;">
         <img class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png" style="width:150px; height:150px;">
     </div>
 </div>
