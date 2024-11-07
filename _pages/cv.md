@@ -25,8 +25,8 @@ Research experience
 
 Awards
 ------
-* **Excellent Graduate** 2024
-    awarded by Peking University, for outstanding performance during the academic years in PKU.
+* **Excellent Graduate** 2024  
+  Awarded by Peking University for outstanding performance during the academic years at PKU.
 * **China National Scholarship** 2023, awarded by the Ministry of Education of the People's Republic of China, achieving the top rank in comprehensive assessment for the second year of graduate education.
 * **Meritorious Student** 2022&2023, at Peking University, achieving the top rank.
 * **Second-Class Scholarship for Academic Excellence** 2019, at the Renmin University of China, granted to no more than 8% of students.
