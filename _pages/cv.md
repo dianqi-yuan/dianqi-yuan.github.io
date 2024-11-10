@@ -34,7 +34,7 @@ Awards
 * **Meritorious Student**         2022 & 2023  
   At Peking University, achieving the top rank.
 
-* **Second-Class Scholarship for Academic Excellence**         2019  
+* **Scholarship for Academic Excellence**         2019  
   At the Renmin University of China, granted to no more than 8% of students.
 
 * **Excellent Paper**         2022  
