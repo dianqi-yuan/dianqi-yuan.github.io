@@ -19,7 +19,7 @@ Primary Interests
 Education
 ------
 - **[University of Manchester](https://www.manchester.ac.uk/)**,Manchester, UK
-  - Joint PhD in Social Statistics at the University of Manchester (UoM) and the Max Planck Institute for Demographic Research (MPIDR), [school of social statistics](https://www.socialsciences.manchester.ac.uk)   
+  - Joint PhD in [Social Statistics](https://www.socialsciences.manchester.ac.uk)  at the University of Manchester (UoM) and the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en)
   - Sep.2024
     
 - **[Peking University](https://english.pku.edu.cn/)**, Beijing, China
