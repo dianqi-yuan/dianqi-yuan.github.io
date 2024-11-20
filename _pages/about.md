@@ -18,7 +18,10 @@ Primary Interests
 
 Education
 ------
-
+- **[University of Manchester](https://www.manchester.ac.uk/)**,Manchester, UK
+  - Joint PhD in Social Statistics at the University of Manchester (UoM) and the Max Planck Institute for Demographic Research (MPIDR), [school of social statistics](https://www.socialsciences.manchester.ac.uk)   
+  - Sep.2024
+    
 - **[Peking University](https://english.pku.edu.cn/)**, Beijing, China
   - Master of Demography, [Institute of Population Research](https://ipr.pku.edu.cn/)   
   - Sep.2021-Jun.2024
@@ -33,6 +36,7 @@ Education
                                                                          
 <div class="text-center">
     <div class="row">
+       <img class="img-circle" src="https://dianqi-yuan.github.io/images/uom.png" style="width:150px; height:150px;">
         <img class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png" style="width:150px; height:150px;">
         <img class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png" style="width:150px; height:150px;">
         <img class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png" style="width:150px; height:150px;">
