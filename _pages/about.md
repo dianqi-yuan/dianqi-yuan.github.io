@@ -36,10 +36,20 @@ Education
                                                                          
 <div class="text-center">
     <div class="row">
-       <img class="img-circle" src="https://dianqi-yuan.github.io/images/uom.png" style="width:200px; height:150px;">
-        <img class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png" style="width:150px; height:150px;">
-        <img class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png" style="width:150px; height:150px;">
-        <img class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png" style="width:150px; height:150px;">
+        <!-- First row with two larger images -->
+        <div class="col-12 mb-3">
+            <img class="img-circle" src="https://dianqi-yuan.github.io/images/uom.png" style="width:250px; height:150px; margin-right:10px;">
+            <img class="img-circle" src="https://dianqi-yuan.github.io/images/mpi.png" style="width:250px; height:150px;">
+        </div>
+    </div>
+    <div class="row">
+        <!-- Second row with three smaller images -->
+        <div class="col-12">
+            <img class="img-circle" src="https://dianqi-yuan.github.io/images/PKU.png" style="width:150px; height:150px; margin-right:10px;">
+            <img class="img-circle" src="https://dianqi-yuan.github.io/images/RM.png" style="width:150px; height:150px; margin-right:10px;">
+            <img class="img-circle" src="https://dianqi-yuan.github.io/images/OXFORD.png" style="width:150px; height:150px;">
+        </div>
     </div>
 </div>
+
 
